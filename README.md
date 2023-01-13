@@ -15,9 +15,6 @@ Developer currently working in Unity and website development. <br>Most experienc
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kristianduke&theme=dark&hide_border=true)<br/>
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=KristianDuke6)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=kristianduke&icon=0&color=1)](https://visitcount.itsvg.in)
 
