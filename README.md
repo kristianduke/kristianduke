@@ -1,5 +1,5 @@
 # 💫 About Me:
-Developer currently working in Unity and website development. <br>Mostly experienced in C# and competent in Java, Python and JavaScript. 
+Developer currently working in Unity and website development. <br>Most experienced in C# but also competent in Java, Python and JavaScript. My main passion is game development and am currently working on a variety of game systems to be used in an upcoming personal project.
 
 
 ## 🌐 Socials:
