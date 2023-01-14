@@ -7,7 +7,7 @@ Developer currently working in Unity and website development. <br>Most experienc
 
 # 💻 Tech Stack:
 ### Game Dev:
-![Unity](https://img.shields.io/badge/-Unity-blueviolet?logo=unity&style=flat) ![Unreal Engine](https://img.shields.io/badge/-UE4-red?logo=unrealengine&style=flat) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=flat&logo=Aseprite&logoColor=#7D929E) 
+![Unity](https://img.shields.io/badge/-Unity-blueviolet?logo=unity&style=flat) ![Unreal Engine](https://img.shields.io/badge/-Unreal Engine-red?logo=unrealengine&style=flat) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=flat&logo=Aseprite&logoColor=#7D929E) 
 ### Languages & Frameworks:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)  ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)  
 
