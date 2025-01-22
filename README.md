@@ -11,10 +11,4 @@ Developer currently working with Unity (C#) and website development. <br>Most ex
 ### Languages & Frameworks:
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)](https://dotnet.microsoft.com/en-us/languages/csharp) [![C++](https://img.shields.io/badge/C%2B%2B-blue?style=flat&logo=cplusplus&logoColor=white)](https://isocpp.org/) [![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)](https://dotnet.microsoft.com/en-us/) [![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)](https://react.dev/)  [![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)](https://www.python.org/)
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=kristianduke&theme=dark&hide_border=true)<br/>
-
----
-[![](https://visitcount.itsvg.in/api?id=kristianduke&icon=0&color=1)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
