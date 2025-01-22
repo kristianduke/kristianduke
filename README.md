@@ -1,11 +1,10 @@
 # 💫 About Me:
 Developer currently working with Unity (C#) and website development. <br>Most experienced in C# but competent in Java, Python and JavaScript. I generally spend my free time on game development and I'm currently working on a variety of game systems to be used in an upcoming project.
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kristian-duke) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/KristianDuke6) 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ### Game Development:
 ![Unity](https://img.shields.io/badge/-Unity-blueviolet?logo=unity&style=flat) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=flat&logo=Aseprite&logoColor=#7D929E) 
 ### Languages & Frameworks:
