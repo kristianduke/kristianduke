@@ -3,4 +3,3 @@
 ---
 - **[Portfolio](https://kristianduke.me)** — *My personal portfolio and background.*
 - **[hitbox.dev](https://hitbox.dev)** — *A hub for my public-facing projects, applets, and more.*
-- **[hitbox.id](https://hitbox.id)** — *A simple OAuth identity system I've developed.*
