@@ -3,3 +3,4 @@
 ---
 - **[Portfolio](https://kristianduke.me)** — *My personal portfolio and background.*
 - **[hitbox.dev](https://hitbox.dev)** — *A hub for my public-facing projects, applets, and more.*
+- **[Blackboard](https://blackboard.hitbox.dev)** - *A Blackboard app for creating AI logic to import into Unity or via my Minecraft mod*
